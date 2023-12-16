@@ -1,7 +1,6 @@
-## O que um desenvolvedor Back-Ende ?
+## O que um desenvolvedor Back-End ?
 
-### É o profissional responsável pelo desenvolvimento da parte do aplicativo ou site que lida com a lógica do servidor, o armazenamento de dados, segurança e a interação com bancos de dados (essas partes não  são visíveis ao usuário.
-)
+### É o profissional responsável pelo desenvolvimento da parte do aplicativo ou site que lida com a lógica do servidor, o armazenamento de dados, segurança e a interação com bancos de dados (essas partes não  são visíveis ao usuário.)
  ## Principais função funções :
 - Desenvolvimento de APIs: criar e manter interfaces de programação de aplicativos (APIs) que permitem a comunicação entre o front-end e o back-end do sistema.
 
