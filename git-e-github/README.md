@@ -3,7 +3,7 @@
    ## **Git** : Sistema de controle de versionamente de código
    ### Amplamente usado no desenvolvimento de software, permitindo que outros desenvolvedores possam trabalhar no mesmo projeto, permitindo o acompanhando das  alterações ao  longo  do tempo
   ## Iniciando com Git 
-  >>>  Site oficial para baixar em sua máquina (caso não o tenha.)  https://git-scm.com/downloads
+  ## Site oficial para baixar o Git em sua máquina (caso não o tenha.)  https://git-scm.com/downloads
 
   ``` git config --global user.name "seu nome"``` -> configura seu nome de usuário
 
