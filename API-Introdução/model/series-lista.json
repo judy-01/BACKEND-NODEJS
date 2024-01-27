@@ -1,0 +1,37 @@
+[{   
+    "id": 1,
+    "titulo": "Pizza assassina",
+    "anoDeLancamento": 2017,
+    "diretor": "Paulo Silver",
+    "genero": "Drama",
+    "temporadas": 5,
+    "epsodios": 8
+},
+{
+    "id": 2,
+    "titulo": "computador do mal",
+    "anoDeLancamento": 2050,
+    "diretor": "lilith hell",
+    "genero": "ficção científica",
+    "temporadas": 12,
+    "epsodios": 120
+
+},
+{
+    "id": 3,
+    "titulo": "Boneca humana",
+    "anoDeLancamento": 2037,
+    "diretor": "Deep Web",
+    "genero": "Drama, terror, suspense",
+    "temporadas": 6,
+    "epsodios": 11
+}
+
+
+
+
+
+
+
+
+]
